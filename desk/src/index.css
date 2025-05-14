@@ -1,3 +1,4 @@
+@import './assets/custom.css';
 @import 'frappe-ui/src/fonts/Inter/inter.css';
 
 @tailwind base;
